@@ -1,0 +1,17 @@
+#timer {
+    margin-top: 5px;
+    margin-left: 5px;
+    height: 40px;
+    width: 40px;
+    transition: 100ms;
+    background: conic-gradient(#999999 0, rgba(0,0,0,0) 0);
+    border-radius: 50%;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    box-shadow: 0px 0px 2px 2px rgba(255,255,255,0.5);
+    text-align: center;
+    color: white;
+    line-height: 28px;
+    font-size: 25px;
+}
